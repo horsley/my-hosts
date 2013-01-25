@@ -111,19 +111,19 @@
 ###2404:6800:8005::62 www0.l.google.com
 ###2404:6800:8005::62 www1.l.google.com
 2404:6800:8005::93 www2.l.google.com
-2404:6800:8005::8b www3.l.google.com
-2404:6800:8005::85 www4.l.google.com
+2001:4860:4007:801::1003 www3.l.google.com
+2001:4860:4007:801::1001 www4.l.google.com
 2404:6800:8005::66 suggestqueries.google.com #suggestqueries.l.google.com
 2404:6800:8005::66 suggestqueries.l.google.com
-2404:6800:8005::8b gxc.google.com #www3.l.google.com
-2404:6800:8005::8b gxc.google.com.hk #www3.l.google.com
+2001:4860:4007:801::1003 gxc.google.com #www3.l.google.com
+2001:4860:4007:801::1003 gxc.google.com.hk #www3.l.google.com
 2404:6800:8005::64 investor.google.com #www3.l.google.com
 2404:6800:8005::66 clients1.google.com #clients.l.google.com
 2404:6800:8005::64 clients2.google.com #clients.l.google.com
 2404:6800:8005::64 clients3.google.com #clients.l.google.com
-2404:6800:8005::8b clients4.google.com #clients.l.google.com
+2001:4860:4007:801::1003 clients4.google.com #clients.l.google.com
 2404:6800:8005::8a clients5.google.com #clients.l.google.com
-2404:6800:8005::8b clients6.google.com #clients.l.google.com
+2001:4860:4007:801::1003 clients6.google.com #clients.l.google.com
 2404:6800:8005::5e clients1.google.com.hk #clients-cctld.l.google.com
 2404:6800:8005::5e clients1.google.com.tw #clients-cctld.l.google.com
 2404:6800:8005::66 linkhelp.clients.google.com #clients.l.google.com
@@ -133,7 +133,7 @@
 2404:6800:8005::8a encrypted-tbn2.google.com #encrypted-tbn.l.google.com
 2404:6800:8005::65 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2404:6800:8005::64 encrypted-tbn.l.google.com
-2404:6800:8005::8b support.google.com #www3.l.google.com
+2001:4860:4007:801::1003 support.google.com #www3.l.google.com
 2404:6800:8005::c1 mobile.google.com #mobile.l.google.com
 2404:6800:8005::63 mobile.google.com.hk #www.google.com
 
@@ -150,7 +150,7 @@
 2404:6800:8005::67 www.googlemashups.com #www2.l.google.com
 #2404:6800:8005::62 googlemashups.l.google.com
 2404:6800:8005::67 *.googlemashups.com #www2.l.google.com
-2404:6800:8005::8b appengine.google.com #www3.l.google.com
+2001:4860:4007:801::1003 appengine.google.com #www3.l.google.com
 2001:4860:4007:801::1006 appspot.l.google.com
 2001:4860:4007:801::1006 productideas.appspot.com #appspot.l.google.com
 2001:4860:4007:801::1006 storegadgetwizard.appspot.com #appspot.l.google.com
@@ -214,7 +214,7 @@
 2001:4860:4007:801::100b blogsofnote.blogspot.com #blogspot.l.google.com
 2001:4860:4007:801::100b knownissues.blogspot.com #blogspot.l.google.com
 2404:6800:8005::8a 1.bp.blogspot.com #bloggerphotos.l.google.com
-2404:6800:8005::8b 2.bp.blogspot.com #bloggerphotos.l.google.com
+2001:4860:4007:801::1003 2.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::64 3.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::8a 4.bp.blogspot.com #bloggerphotos.l.google.com
 2001:4860:4007:801::100b bloggertemplatespreview.blogspot.com #blogspot.l.google.com
@@ -261,31 +261,31 @@
 
 #Books 图书
 2404:6800:8005::64 books.google.com #www3.l.google.com
-2404:6800:8005::8b books.google.com.hk #www3.l.google.com
+2001:4860:4007:801::1003 books.google.com.hk #www3.l.google.com
 2404:6800:8005::a0 books.google.cn #www.google.cn
-2404:6800:8005::8b bks0.books.google.com #www3.l.google.com
-2404:6800:8005::8b bks1.books.google.com #www3.l.google.com
+2001:4860:4007:801::1003 bks0.books.google.com #www3.l.google.com
+2001:4860:4007:801::1003 bks1.books.google.com #www3.l.google.com
 2404:6800:8005::8a bks2.books.google.com #www3.l.google.com
-2404:6800:8005::8b bks3.books.google.com #www3.l.google.com
+2001:4860:4007:801::1003 bks3.books.google.com #www3.l.google.com
 2404:6800:8005::64 bks4.books.google.com #www3.l.google.com
 2001:4860:4007:801::1009 bks5.books.google.com #www3.l.google.com
 2404:6800:8005::65 bks6.books.google.com #www3.l.google.com
 2404:6800:8005::64 bks7.books.google.com #www3.l.google.com
-2404:6800:8005::8b bks8.books.google.com #www3.l.google.com
+2001:4860:4007:801::1003 bks8.books.google.com #www3.l.google.com
 2404:6800:8005::64 bks9.books.google.com #www3.l.google.com
-2404:6800:8005::8b bks10.books.google.com #www3.l.google.com
+2001:4860:4007:801::1003 bks10.books.google.com #www3.l.google.com
 2404:6800:8005::64 bks0.books.google.com.hk #books.google.com
 2404:6800:8005::64 bks1.books.google.com.hk #books.google.com
 2404:6800:8005::64 bks2.books.google.com.hk #books.google.com
 2404:6800:8005::64 bks3.books.google.com.hk #books.google.com
 2404:6800:8005::65 bks4.books.google.com.hk #books.google.com
-2404:6800:8005::8b bks5.books.google.com.hk #books.google.com
+2001:4860:4007:801::1003 bks5.books.google.com.hk #books.google.com
 2404:6800:8005::8a bks6.books.google.com.hk #books.google.com
 2404:6800:8005::8a bks7.books.google.com.hk #books.google.com
 2404:6800:8005::65 bks8.books.google.com.hk #books.google.com
 2404:6800:8005::65 bks9.books.google.com.hk #books.google.com
 2404:6800:8005::64 bks10.books.google.com.hk #books.google.com
-2404:6800:8005::8b buzz.google.com #www3.l.google.com
+2001:4860:4007:801::1003 buzz.google.com #www3.l.google.com
 
 #Calendar 日历
 2404:6800:8005::66 calendar.google.com #www3.l.google.com
@@ -306,7 +306,7 @@
 2607:f8b0:400e:c00::79 chrome.angrybirds.com #ghs.l.google.com
 
 #Chromium Chromium 项目
-2404:6800:8005::8b chromium.org
+2001:4860:4007:801::1003 chromium.org
 2607:f8b0:400e:c00::79 www.chromium.org #ghs.l.google.com
 2607:f8b0:400e:c00::79 dev.chromium.org #ghs.l.google.com
 2607:f8b0:400e:c00::79 blog.chromium.org #ghs.l.google.com
@@ -340,10 +340,10 @@
 2404:6800:8005::64 dir.google.com #www3.l.google.com
 
 #Docs 文档
-2404:6800:8005::8b docs.google.com
+2001:4860:4007:801::1003 docs.google.com
 2404:6800:8005::66 drive.google.com
 2404:6800:8005::64 docs0.google.com
-2404:6800:8005::8b docs1.google.com
+2001:4860:4007:801::1003 docs1.google.com
 2404:6800:8005::64 docs2.google.com
 2404:6800:8005::64 docs3.google.com
 2404:6800:8005::64 docs4.google.com
@@ -389,7 +389,7 @@
 2404:6800:8005::bd *.docs.google.com #browserchannel-docs.l.google.com #按需要同时打开的文档个数自行添加
 2404:6800:8005::bd *.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:8005::bd browserchannel-docs.l.google.com
-2404:6800:8005::8b spreadsheet.google.com #spreadsheets.l.google.com
+2001:4860:4007:801::1003 spreadsheet.google.com #spreadsheets.l.google.com
 2404:6800:8005::65 spreadsheets.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets0.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets1.google.com #spreadsheets.l.google.com
@@ -397,16 +397,16 @@
 2404:6800:8005::64 spreadsheets3.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets4.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets5.google.com #spreadsheets.l.google.com
-2404:6800:8005::8b spreadsheets6.google.com #spreadsheets.l.google.com
+2001:4860:4007:801::1003 spreadsheets6.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets7.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets8.google.com #spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets9.google.com #spreadsheets.l.google.com
-2404:6800:8005::8b spreadsheets.l.google.com
+2001:4860:4007:801::1003 spreadsheets.l.google.com
 2404:6800:8005::64 spreadsheets-china.l.google.com
 2404:6800:8005::8a writely.google.com
-2404:6800:8005::8b writely.l.google.com
+2001:4860:4007:801::1003 writely.l.google.com
 ###2404:6800:8005::62 writely-com.l.google.com
-2404:6800:8005::8b writely-china.l.google.com
+2001:4860:4007:801::1003 writely-china.l.google.com
 2404:6800:8005::74 upload.docs.google.com #large-uploads.l.google.com
 
 #Download 下载
@@ -416,7 +416,7 @@
 
 #Google Earth 地球
 2001:4860:4007:801::1009 earth.google.com #www3.l.google.com
-2404:6800:8005::8b auth.keyhole.com #www3.l.google.com
+2001:4860:4007:801::1003 auth.keyhole.com #www3.l.google.com
 2404:6800:8005::66 geoauth.google.com #www3.l.google.com
 
 #Finance 财经
@@ -515,11 +515,11 @@
 2001:4860:4007:801::1006 tables.googlelabs.com #appspot.l.google.com
 
 #Google Mars 火星地图
-2404:6800:8005::8b mars.google.com #www3.l.google.com
+2001:4860:4007:801::1003 mars.google.com #www3.l.google.com
 
 #Maps 地图
-2404:6800:8005::8b maps.google.com #maps.l.google.com
-2404:6800:8005::8b maps.google.com.hk #maps.l.google.com
+2001:4860:4007:801::1003 maps.google.com #maps.l.google.com
+2001:4860:4007:801::1003 maps.google.com.hk #maps.l.google.com
 2404:6800:8005::66 maps.google.com.tw #maps.l.google.com
 2001:4860:4007:801::1009 local.google.com #maps.l.google.com
 2404:6800:8005::64 ditu.google.com #maps.l.google.com
@@ -528,11 +528,11 @@
 2404:6800:8005::65 maps.l.google.com
 2404:6800:8005::88 kh.google.com #kh.l.google.com
 2404:6800:8005::88 kh.l.google.com
-2404:6800:8005::8b khmdb.google.com #khmdb.l.google.com
-2404:6800:8005::8b khm.google.com #khm.l.google.com
-2404:6800:8005::8b khm.l.google.com
-2404:6800:8005::8b khm0.google.com #khm.l.google.com
-2404:6800:8005::8b khm1.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khmdb.google.com #khmdb.l.google.com
+2001:4860:4007:801::1003 khm.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khm.l.google.com
+2001:4860:4007:801::1003 khm0.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khm1.google.com #khm.l.google.com
 2001:4860:4007:801::1009 khm2.google.com #khm.l.google.com
 2001:4860:4007:801::1009 khm3.google.com #khm.l.google.com
 2404:6800:8005::64 cbk0.google.com #cbk.l.google.com
@@ -540,25 +540,25 @@
 2404:6800:8005::64 cbk2.google.com #cbk.l.google.com
 2404:6800:8005::64 cbk3.google.com #cbk.l.google.com
 2404:6800:8005::8a khms.google.com #khms.l.google.com
-2404:6800:8005::8b khms0.google.com #khms.l.google.com
+2001:4860:4007:801::1003 khms0.google.com #khms.l.google.com
 2404:6800:8005::66 khms1.google.com #khms.l.google.com
-2404:6800:8005::8b khms2.google.com #khms.l.google.com
+2001:4860:4007:801::1003 khms2.google.com #khms.l.google.com
 2001:4860:4007:801::1009 khms3.google.com #khms.l.google.com
 2404:6800:8005::64 cbks0.google.com #khms.l.google.com
 2404:6800:8005::66 cbks1.google.com #khms.l.google.com
-2404:6800:8005::8b cbks2.google.com #khms.l.google.com
+2001:4860:4007:801::1003 cbks2.google.com #khms.l.google.com
 2404:6800:8005::64 cbks3.google.com #khms.l.google.com
 2001:4860:4007:801::1009 khms.l.google.com
-2404:6800:8005::76 mw1.google.com #mw-small.l.google.com
-2404:6800:8005::76 mw2.google.com #mw-medium.l.google.com
+2001:4860:4007:801::1007 mw1.google.com #mw-small.l.google.com
+2001:4860:4007:801::1007 mw2.google.com #mw-medium.l.google.com
 2404:6800:8005::8a mt.l.google.com
 2404:6800:8005::64 mt.google.com #mt.l.google.com
 2001:4860:4007:801::1009 mt0.google.com #mt.l.google.com
-2404:6800:8005::8b mt1.google.com #mt.l.google.com
+2001:4860:4007:801::1003 mt1.google.com #mt.l.google.com
 2404:6800:8005::64 mt2.google.com #mt.l.google.com
-2404:6800:8005::8b mt3.google.com #mt.l.google.com
+2001:4860:4007:801::1003 mt3.google.com #mt.l.google.com
 2404:6800:8005::66 gg.google.com
-2404:6800:8005::8b gg.google.cn
+2001:4860:4007:801::1003 gg.google.cn
 2001:4860:4007:801::1000 csi.l.google.com
 2404:6800:8005::5e id.google.com #id.l.google.com
 2404:6800:8005::5e id.google.cn #id.l.google.com
@@ -569,17 +569,17 @@
 2404:6800:8005::a0 mt1.google.cn #ditu.google.cn
 2404:6800:8005::a0 mt2.google.cn #ditu.google.cn
 2404:6800:8005::a0 mt3.google.cn #ditu.google.cn
-2404:6800:8005::8b mts.google.com #mts.l.google.com
-2404:6800:8005::8b mts0.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts0.google.com #mts.l.google.com
 2404:6800:8005::64 mts1.google.com #mts.l.google.com
 2001:4860:4007:801::1009 mts2.google.com #mts.l.google.com
-2404:6800:8005::8b mts3.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts3.google.com #mts.l.google.com
 2404:6800:8005::64 mts.l.google.com
 2404:6800:8005::a0 maps.gstatic.cn #www.gstatic.cn
 2404:6800:8005::64 mobilemaps.clients.google.com #clients.l.google.com
 
 #Music Beta by Google 云音乐服务
-2404:6800:8005::8b music.google.com #www3.l.google.com
+2001:4860:4007:801::1003 music.google.com #www3.l.google.com
 2404:6800:8005::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:8003::74 music-streaming.l.google.com
 2001:4860:4007:801::100b music.googleusercontent.com #googlehosted.l.googleusercontent.com
@@ -652,7 +652,7 @@
 #Profiles 个人主页
 2404:6800:8005::66 profiles.google.com #plus.l.google.com
 2404:6800:8005::64 plusone.google.com #plus.l.google.com
-2404:6800:8005::8b plus.google.com
+2001:4860:4007:801::1003 plus.google.com
 ###2404:6800:8005::8a plus.google.com.hk # URL 重定向
 2404:6800:8005::64 plus.url.google.com #www3.l.google.com
 #2404:6800:8005::8a plus.url.google.com.hk #实际上不存在的域名
@@ -682,7 +682,7 @@
 2404:6800:8005::a0 scholar.google.cn
 
 #Sites 协作平台
-2404:6800:8005::8b sites.google.com #www3.l.google.com
+2001:4860:4007:801::1003 sites.google.com #www3.l.google.com
 2001:4860:4007:801::1009 gsamplemaps.googlepages.com #www3.l.google.com
 
 #SketchUp 3D 建模工具
@@ -705,7 +705,7 @@
 #Tools 工具
 2404:6800:8003::65 tools.google.com #tools.l.google.com
 2404:6800:8003::65 toolbar.google.com #tools.l.google.com
-2404:6800:8005::8b toolbar.google.com.hk #tools.l.google.com
+2001:4860:4007:801::1003 toolbar.google.com.hk #tools.l.google.com
 2404:6800:8003::65 tools.l.google.com
 
 #Translate 翻译
@@ -719,16 +719,16 @@
 
 #Video 视频
 2404:6800:8005::65 video.google.com #video.l.google.com
-2404:6800:8005::8b video.google.com.hk #video.l.google.com
+2001:4860:4007:801::1003 video.google.com.hk #video.l.google.com
 2404:6800:8005::8a video.google.com.tw #video.l.google.com
 2404:6800:8005::65 video.l.google.com
-2404:6800:8005::8b 0.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4007:801::1003 0.gvt0.com #video-thumbnails.l.google.com
 2404:6800:8005::64 1.gvt0.com #video-thumbnails.l.google.com
 2404:6800:8005::64 2.gvt0.com #video-thumbnails.l.google.com
-2404:6800:8005::8b 3.gvt0.com #video-thumbnails.l.google.com
-2404:6800:8005::8b 4.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4007:801::1003 3.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4007:801::1003 4.gvt0.com #video-thumbnails.l.google.com
 2001:4860:4007:801::1009 5.gvt0.com #video-thumbnails.l.google.com
-2404:6800:8005::8b video-stats.video.google.com #video-stats.l.google.com
+2001:4860:4007:801::1003 video-stats.video.google.com #video-stats.l.google.com
 2404:6800:8005::74 upload.video.google.com #sslvideo-upload.l.google.com
 2404:6800:8005::75 sslvideo-upload.l.google.com
 2404:6800:8005::b0 vp.video.google.com #vp.video.l.google.com
@@ -1773,9 +1773,9 @@
 2404:6800:8005::a0 3.gvt0.cn #www.gvt0.cn
 
 #Wave 波浪
-2404:6800:8005::76 wave.google.com #www4.l.google.com
-###2404:6800:8005::76 wave0.google.com
-2404:6800:8005::76 wave1.google.com #www4.l.google.com
+2001:4860:4007:801::1007 wave.google.com #www4.l.google.com
+###2001:4860:4007:801::1007 wave0.google.com
+2001:4860:4007:801::1007 wave1.google.com #www4.l.google.com
 2404:6800:8005::68 googlewave.com
 
 #WiFi
@@ -1801,9 +1801,9 @@
 2001:4860:4007:801::100b img2.gmodules.com #googlehosted.l.googleusercontent.com
 2001:4860:4007:801::100b img3.gmodules.com #googlehosted.l.googleusercontent.com
 2001:4860:4007:801::100b skins.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:8005::85 friendconnect.gmodules.com #gadgets.l.google.com
-2404:6800:8005::76 0.blogger.gmodules.com #gadgets.l.google.com
-2404:6800:8005::76 gadgets.l.google.com
+2001:4860:4007:801::1001 friendconnect.gmodules.com #gadgets.l.google.com
+2001:4860:4007:801::1007 0.blogger.gmodules.com #gadgets.l.google.com
+2001:4860:4007:801::1007 gadgets.l.google.com
 2404:6800:8005::69 partnerpage.google.com #www2.l.google.com
 2001:4860:4007:801::100b *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
@@ -1826,12 +1826,12 @@
 2404:6800:8005::8a mt3.gstatic.com
 2404:6800:8005::64 mt4.gstatic.com
 2404:6800:8005::64 mt5.gstatic.com
-2404:6800:8005::8b mt6.gstatic.com
+2001:4860:4007:801::1003 mt6.gstatic.com
 2001:4860:4007:801::1009 mt7.gstatic.com
 2404:6800:8005::a0 www.gstatic.cn
 
 #Google APIs 开发接口服务
-2404:6800:8005::8b apis.google.com #plus.l.google.com
+2001:4860:4007:801::1003 apis.google.com #plus.l.google.com
 2404:6800:8005::64 chart.apis.google.com #clients.l.google.com
 2404:6800:8005::5f www.googleapis.com #googleapis.l.google.com
 2404:6800:8005::5f *.googleapis.com #googleapis.l.google.com
@@ -2642,21 +2642,21 @@
 2404:6800:8005::8a ads.youtube.com #www3.l.google.com
 2404:6800:8005::88 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:8005::5d youtube-ui.l.google.com
-2404:6800:8005::8b m.youtube.com
+2001:4860:4007:801::1003 m.youtube.com
 2404:6800:8005::88 youtu.be
-2404:6800:8005::85 gdata.youtube.com #www4.l.google.com
+2001:4860:4007:801::1001 gdata.youtube.com #www4.l.google.com
 2404:6800:8005::75 stage.gdata.youtube.com #yt-video-upload.l.google.com
 2001:4860:4007:801::1009 s.youtube.com #video-stats.l.google.com
 2404:6800:8005::66 s2.youtube.com #video-stats.l.google.com
-2404:6800:8005::8b accounts.youtube.com #www3.l.google.com
+2001:4860:4007:801::1003 accounts.youtube.com #www3.l.google.com
 2404:6800:8005::64 video-stats.l.google.com
 2404:6800:8005::65 img.youtube.com #ytimg.l.google.com
-2404:6800:8005::8b ytimg.l.google.com
+2001:4860:4007:801::1003 ytimg.l.google.com
 2404:6800:8005::64 i.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i1.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i2.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i3.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i4.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i1.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i2.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i3.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i4.ytimg.com #ytimg.l.google.com
 2404:6800:8005::8a s.ytimg.com #ytstatic.l.google.com
 2404:6800:8005::64 ytstatic.l.google.com
 2404:6800:8005::67 help.youtube.com #www.l.google.com
@@ -4111,11 +4111,11 @@
 2404:6800:8005::69 android.com
 2404:6800:8005::64 developer.android.com #www3.l.google.com
 2404:6800:8005::64 source.android.com #www3.l.google.com
-2404:6800:8005::85 market.android.com #android-market.l.google.com
+2001:4860:4007:801::1001 market.android.com #android-market.l.google.com
 2404:6800:8005::64 android.clients.google.com #android.l.google.com
 2404:6800:8005::64 android.l.google.com
 2404:6800:8005::64 android-china.l.google.com
-2404:6800:8005::8b play.google.com #www3.l.google.com
+2001:4860:4007:801::1003 play.google.com #www3.l.google.com
 2404:6800:4005::6 v1.lscache1.c.android.clients.google.com
 2404:6800:4005:4::6 v1.lscache2.c.android.clients.google.com
 2404:6800:4005:1::6 v1.lscache3.c.android.clients.google.com
@@ -4506,11 +4506,11 @@
 2001:4860:4007:801::1006 art-project-media.appspot.com #appspot.l.google.com
 
 #FeedBurner
-2404:6800:8005::8b feedburner.google.com #www3.l.google.com
-2404:6800:8005::8b www.feedburner.com #www3.l.google.com
-2404:6800:8005::76 feeds.feedburner.com #www4.l.google.com
-2404:6800:8005::85 feeds2.feedburner.com #www4.l.google.com
-2404:6800:8005::76 feedproxy.google.com #www4.l.google.com #Feed 跳转代理
+2001:4860:4007:801::1003 feedburner.google.com #www3.l.google.com
+2001:4860:4007:801::1003 www.feedburner.com #www3.l.google.com
+2001:4860:4007:801::1007 feeds.feedburner.com #www4.l.google.com
+2001:4860:4007:801::1001 feeds2.feedburner.com #www4.l.google.com
+2001:4860:4007:801::1007 feedproxy.google.com #www4.l.google.com #Feed 跳转代理
 
 #The Go Programming Language Go 编程语言
 2001:4860:4007:801::1006 golang.org
@@ -4569,10 +4569,10 @@
 2001:4860:b007::97 chromeecho.l.google.com
 
 #其他专题站
-2404:6800:8005::8b www.data-vocabulary.org #www3.l.google.com
+2001:4860:4007:801::1003 www.data-vocabulary.org #www3.l.google.com
 2404:6800:8005::8a www.googleinsidesearch.com #www3.l.google.com
 2607:f8b0:400e:c00::79 www.teachparentstech.org #ghs.l.google.com
-2404:6800:8005::85 www.agoogleaday.com #www4.l.google.com
+2001:4860:4007:801::1001 www.agoogleaday.com #www4.l.google.com
 2607:f8b0:400e:c00::79 www.gosetsuden.jp #ghs.l.google.com
 2607:f8b0:400e:c00::79 www.emailintervention.com #ghs.l.google.com
 2607:f8b0:400e:c00::79 www.thegooglepuzzle.com #ghs.l.google.com
@@ -7885,8 +7885,8 @@
 #75.101.159.151 dl-web.dropbox.com
 #174.36.30.67 forums.dropbox.com
 #Maps 地图
-2404:6800:8005::8b maps.google.com #maps.l.google.com
-2404:6800:8005::8b maps.google.com.hk #maps.l.google.com
+2001:4860:4007:801::1003 maps.google.com #maps.l.google.com
+2001:4860:4007:801::1003 maps.google.com.hk #maps.l.google.com
 2404:6800:8005::66 maps.google.com.tw #maps.l.google.com
 2001:4860:4007:801::1009 local.google.com #maps.l.google.com
 2404:6800:8005::64 ditu.google.com #maps.l.google.com
@@ -7895,11 +7895,11 @@
 2404:6800:8005::65 maps.l.google.com
 2404:6800:8005::88 kh.google.com #kh.l.google.com
 2404:6800:8005::88 kh.l.google.com
-2404:6800:8005::8b khmdb.google.com #khmdb.l.google.com
-2404:6800:8005::8b khm.google.com #khm.l.google.com
-2404:6800:8005::8b khm.l.google.com
-2404:6800:8005::8b khm0.google.com #khm.l.google.com
-2404:6800:8005::8b khm1.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khmdb.google.com #khmdb.l.google.com
+2001:4860:4007:801::1003 khm.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khm.l.google.com
+2001:4860:4007:801::1003 khm0.google.com #khm.l.google.com
+2001:4860:4007:801::1003 khm1.google.com #khm.l.google.com
 2001:4860:4007:801::1009 khm2.google.com #khm.l.google.com
 2001:4860:4007:801::1009 khm3.google.com #khm.l.google.com
 2404:6800:8005::64 cbk0.google.com #cbk.l.google.com
@@ -7907,25 +7907,25 @@
 2404:6800:8005::64 cbk2.google.com #cbk.l.google.com
 2404:6800:8005::64 cbk3.google.com #cbk.l.google.com
 2404:6800:8005::8a khms.google.com #khms.l.google.com
-2404:6800:8005::8b khms0.google.com #khms.l.google.com
+2001:4860:4007:801::1003 khms0.google.com #khms.l.google.com
 2404:6800:8005::66 khms1.google.com #khms.l.google.com
-2404:6800:8005::8b khms2.google.com #khms.l.google.com
+2001:4860:4007:801::1003 khms2.google.com #khms.l.google.com
 2001:4860:4007:801::1009 khms3.google.com #khms.l.google.com
 2404:6800:8005::64 cbks0.google.com #khms.l.google.com
 2404:6800:8005::66 cbks1.google.com #khms.l.google.com
-2404:6800:8005::8b cbks2.google.com #khms.l.google.com
+2001:4860:4007:801::1003 cbks2.google.com #khms.l.google.com
 2404:6800:8005::64 cbks3.google.com #khms.l.google.com
 2001:4860:4007:801::1009 khms.l.google.com
-2404:6800:8005::76 mw1.google.com #mw-small.l.google.com
-2404:6800:8005::76 mw2.google.com #mw-medium.l.google.com
+2001:4860:4007:801::1007 mw1.google.com #mw-small.l.google.com
+2001:4860:4007:801::1007 mw2.google.com #mw-medium.l.google.com
 2404:6800:8005::8a mt.l.google.com
 2404:6800:8005::64 mt.google.com #mt.l.google.com
 2001:4860:4007:801::1009 mt0.google.com #mt.l.google.com
-2404:6800:8005::8b mt1.google.com #mt.l.google.com
+2001:4860:4007:801::1003 mt1.google.com #mt.l.google.com
 2404:6800:8005::64 mt2.google.com #mt.l.google.com
-2404:6800:8005::8b mt3.google.com #mt.l.google.com
+2001:4860:4007:801::1003 mt3.google.com #mt.l.google.com
 2404:6800:8005::66 gg.google.com
-2404:6800:8005::8b gg.google.cn
+2001:4860:4007:801::1003 gg.google.cn
 2001:4860:4007:801::1000 csi.l.google.com
 2404:6800:8005::5e id.google.com #id.l.google.com
 2404:6800:8005::5e id.google.cn #id.l.google.com
@@ -7936,17 +7936,17 @@
 2404:6800:8005::a0 mt1.google.cn #ditu.google.cn
 2404:6800:8005::a0 mt2.google.cn #ditu.google.cn
 2404:6800:8005::a0 mt3.google.cn #ditu.google.cn
-2404:6800:8005::8b mts.google.com #mts.l.google.com
-2404:6800:8005::8b mts0.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts0.google.com #mts.l.google.com
 2404:6800:8005::64 mts1.google.com #mts.l.google.com
 2001:4860:4007:801::1009 mts2.google.com #mts.l.google.com
-2404:6800:8005::8b mts3.google.com #mts.l.google.com
+2001:4860:4007:801::1003 mts3.google.com #mts.l.google.com
 2404:6800:8005::64 mts.l.google.com
 2404:6800:8005::a0 maps.gstatic.cn #www.gstatic.cn
 2404:6800:8005::64 mobilemaps.clients.google.com #clients.l.google.com
 
 #Music Beta by Google 云音乐服务
-2404:6800:8005::8b music.google.com #www3.l.google.com
+2001:4860:4007:801::1003 music.google.com #www3.l.google.com
 2404:6800:8005::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:8003::74 music-streaming.l.google.com
 2001:4860:4007:801::100b music.googleusercontent.com #googlehosted.l.googleusercontent.com
@@ -7973,21 +7973,21 @@
 2404:6800:8005::8a ads.youtube.com #www3.l.google.com
 2404:6800:8005::88 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:8005::5d youtube-ui.l.google.com
-2404:6800:8005::8b m.youtube.com
+2001:4860:4007:801::1003 m.youtube.com
 2404:6800:8005::88 youtu.be
-2404:6800:8005::85 gdata.youtube.com #www4.l.google.com
+2001:4860:4007:801::1001 gdata.youtube.com #www4.l.google.com
 2404:6800:8005::75 stage.gdata.youtube.com #yt-video-upload.l.google.com
 2001:4860:4007:801::1009 s.youtube.com #video-stats.l.google.com
 2404:6800:8005::66 s2.youtube.com #video-stats.l.google.com
-2404:6800:8005::8b accounts.youtube.com #www3.l.google.com
+2001:4860:4007:801::1003 accounts.youtube.com #www3.l.google.com
 2404:6800:8005::64 video-stats.l.google.com
 2404:6800:8005::65 img.youtube.com #ytimg.l.google.com
-2404:6800:8005::8b ytimg.l.google.com
+2001:4860:4007:801::1003 ytimg.l.google.com
 2404:6800:8005::64 i.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i1.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i2.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i3.ytimg.com #ytimg.l.google.com
-2404:6800:8005::8b i4.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i1.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i2.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i3.ytimg.com #ytimg.l.google.com
+2001:4860:4007:801::1003 i4.ytimg.com #ytimg.l.google.com
 2404:6800:8005::8a s.ytimg.com #ytstatic.l.google.com
 2404:6800:8005::64 ytstatic.l.google.com
 2404:6800:8005::67 help.youtube.com #www.l.google.com
@@ -9007,6 +9007,7 @@
 
 2001:4860:4001:5::7 r2---sn-nwj7knez.c.youtube.com
 2001:4860:4001:4::6 r1---sn-nwj7knes.c.youtube.com
+2001:4860:4001:3::f r10---sn-nwj7knel.c.youtube.com
 #wp
 74.200.243.251 zh-sg.wordpress.com
 
